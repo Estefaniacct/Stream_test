@@ -1,0 +1,11 @@
+book_id,title,ratings_count,average_rating,rating,tag_name,score
+5,The Great Gatsby,2683664,3.89,5,Fantasy,4.899666475907443
+6,The Fault in Our Stars,2346404,4.26,5,Classic,4.886385560450515
+8,The Catcher in the Rye,2044241,3.79,5,Classic,4.8710988042376
+10,Pride and Prejudice,2035490,4.24,5,Fantasy,4.870594548577819
+13,1984,1956832,4.14,5,Classic,4.865878509194627
+11,The Kite Runner,1813044,4.26,5,Classic,4.856305588229464
+29,Romeo and Juliet,1628519,3.73,5,History,4.8418165442244545
+28,Lord of the Flies,1605019,3.64,5,Bio-memoir,4.83975882256836
+26,"The Da Vinci Code (Robert Langdon, #2)",1447148,3.79,5,Bio-memoir,4.82441446145145
+34,"Fifty Shades of Grey (Fifty Shades, #1)",1338493,3.67,5,Classic,4.812025925218149
